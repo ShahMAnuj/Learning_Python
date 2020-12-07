@@ -8,7 +8,8 @@ After you have downloaded Jupyter Lab, running it is very easy:
 1. In File Explorer, go to your folder of interest (your Python playground!)
 2. In the address bar of this folder, delete the default address, and type "powershell", and press enter
 3. In the PowerShell window which opens up, type in "jupyter-lab", and press enter
-4. If Jupyter Lab has been installed on your PC, then it should run properly now!
+4. If Jupyter Lab has been installed on your PC, then one or more URLs will be provided to you
+4. Copy and paste one of these URLs into Chrome's address bar, and press enter. Jupyter Lab will run now!
 
 Search around on https://jupyter.org/ or Google or YouTube if you want to learn more about how to use this wonderful software, 
 or if you are having trouble setting it up. 
