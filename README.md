@@ -3,13 +3,13 @@ My adventures in Python.
 If you want to learn this language from scratch, then see the [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) WikiBook.
 
 
-##Interactive mode
+##Interactive mode##
 
 In PowerShell, if you type in `python -i hello.py`, then you will enter the interactive mode of Python.
 
 This is good for playing around. 
 
-##Jupyter Lab
+##Jupyter Lab##
 
 I highly recommend you to download and use Jupyter Lab on your Windows PC.
 Jupyter Lab is a very user-friendly and fun way to use Python (as compared to directly using PowerShell).
