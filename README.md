@@ -1,10 +1,3 @@
-## Interactive mode ##
-
-In PowerShell, if you type in `python -i filename.py`, then you will enter the interactive mode of Python. This mode is good for playing around.
-
-- You can exit interactive mode by typing `exit()`.
-- You can use the `help()` function to get insightful [docstrings](https://realpython.com/documenting-python-code/) on various Python things.
-
 ## Jupyter Lab ##
 
 I highly recommend you to download and use Jupyter Lab on your Windows PC.
@@ -19,3 +12,10 @@ After you have downloaded Jupyter Lab, running it is very easy:
 
 Search around on [jupyter.org](https://jupyter.org/) or Google or YouTube if you want to learn more about how to use this wonderful software, 
 or if you are having trouble setting it up. 
+
+## Interactive mode ##
+
+In PowerShell, if you type in `python -i filename.py`, then you will enter the interactive mode of Python. This mode is good for playing around.
+
+- You can exit interactive mode by typing `exit()`.
+- You can use the `help()` function to get insightful [docstrings](https://realpython.com/documenting-python-code/) on various Python things.
