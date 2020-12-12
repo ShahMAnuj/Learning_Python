@@ -7,7 +7,7 @@ If you want to learn this language from scratch, then see the [Python Programmin
 
 In PowerShell, if you type in `python -i hello.py`, then you will enter the interactive mode of Python.
 
-This mode is good for playing around. You can exit interactive mode by typing `exit()`
+This mode is good for playing around. You can exit interactive mode by typing `exit()`.
 
 ## Jupyter Lab ##
 
