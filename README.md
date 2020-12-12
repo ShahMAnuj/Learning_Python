@@ -1,13 +1,11 @@
-My adventures in Python.
-
 If you want to learn this language from scratch, then see the [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) WikiBook.
-
 
 ## Interactive mode ##
 
-In PowerShell, if you type in `python -i hello.py`, then you will enter the interactive mode of Python.
+In PowerShell, if you type in `python -i filename.py`, then you will enter the interactive mode of Python. This mode is good for playing around.
 
-This mode is good for playing around. You can exit interactive mode by typing `exit()`.
+- You can exit interactive mode by typing `exit()`.
+- You can use the `help()` function to get insightful [docstrings](https://realpython.com/documenting-python-code/) on various Python things.
 
 ## Jupyter Lab ##
 
