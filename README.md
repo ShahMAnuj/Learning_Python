@@ -1,5 +1,3 @@
-If you want to learn this language from scratch, then see the [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) WikiBook.
-
 ## Interactive mode ##
 
 In PowerShell, if you type in `python -i filename.py`, then you will enter the interactive mode of Python. This mode is good for playing around.
