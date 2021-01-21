@@ -1,6 +1,6 @@
 def charge_density(OT,BAT):
     '''
-    This program calculates CD (Charge Density) based on three values:
+    This function calculates CD (Charge Density) based on three values:
         1. DCSD (Dielectric Constant for Silicon Dioxide) in F/cm.
         2. OT (Oxide Thickness) in nm.
         3. BAT (Bias Above Threshold) in V.
@@ -47,7 +47,7 @@ def drain_current(Vgs,Vt,Vds,DT):
 
 def electron_velocity(EM,EF):
     '''
-    This program calculates EV (Electron Velocity) based on two values:
+    This function calculates EV (Electron Velocity) based on two values:
         1. EM (Electron Mobility) in cm^2/Vs.
         2. EF (Electric Field) in V/cm.
     The units of EV are cm/s.    
@@ -70,7 +70,7 @@ def on_resistance(PT,AR,Vgs,Vt):
     
 def process_transconductance(EM,OT):
     '''
-    This program calculates PT (Process Transconductance) based on three values:
+    This function calculates PT (Process Transconductance) based on three values:
         1. DCSD (Dielectric Constant for Silicon Dioxide) in F/cm.
         2. EM (Electron Mobility) in cm^2/Vs.
         3. OT (Oxide Thickness) in nm.
