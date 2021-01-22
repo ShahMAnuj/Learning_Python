@@ -1,7 +1,7 @@
 import pandas as pd
 
 #Our dataset, imported as a DataFrame
-df = pd.read_csv('all_data.csv')
+df = pd.read_csv('covid-19_data.csv')
 
 #We drop the 'Date' column in our original dataframe
 #And then we find the cumsum (cumulative sum) of the remaining columns
